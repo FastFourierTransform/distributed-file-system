@@ -36,7 +36,7 @@ messageType
 ## Improvements
  * Load/Save the DFS state
  * Bad test methodology
- * Better algoritm/stratagy to divide the file into chunks and distributing it
- * Better usage of the multithread features of send and receive requests from the library
+ * Improve algorithm/strategy to divide the file into chunks and distributing it
+ * Improve usage of the multithread features from the library for send and receive requests 
  * Protocol for handling replicas of chunks
  * Possibility of problemens when coverting byte array to String
